@@ -25,14 +25,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:maurodesouz?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+<h4 align="left">Front-end - Tomáš Řehánek(všichni) <br><br>Back end - Tomáš Řehánek, Adrian Vičánek<br><br>Databáze - Adam Gargulák <br><br>Dokumentace - všichni  <br><br>UI/UX - Lukáš Nedbal, Jakub Zavadil</h4>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=500&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=10&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
