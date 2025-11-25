@@ -25,7 +25,7 @@
 
 ###
 
-<h4 align="left">Front-end - Tomáš Řehánek(všichni) <br><br>Back end - Tomáš Řehánek, Adrian Vičánek<br><br>Databáze - Adam Gargulák <br><br>Dokumentace - všichni  <br><br>UI/UX - Lukáš Nedbal, Jakub Zavadil</h4>
+
 
 ###
 
